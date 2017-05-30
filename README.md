@@ -89,7 +89,7 @@ spark-pi-1496166532391-exec-5   0/1       Pending   0         0s
 spark-pi-1496166532391-exec-1   0/1       Init:0/1   0         1s
 spark-pi-1496166532391-exec-1   0/1       PodInitializing   0         4s
 ...
-$
+```
 
 Now you can watch logs with this function which follows the driver:
 
