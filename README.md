@@ -1,4 +1,4 @@
-# Nativley Build Spark on Kubernetes
+# Natively Build Spark on Kubernetes
 This tutorial leverages the framework built in this fork of spark [here](https://github.com/apache-spark-on-k8s/spark) which corresponds to an umbrella Spark JIRA issue focused on [here](https://issues.apache.org/jira/browse/SPARK-18278).
 
 First you will need to build the most recent version of spark (with Kubernetes support). This can be done with the following:
